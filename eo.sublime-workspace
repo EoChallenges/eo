@@ -1,0 +1,837 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"gp",
+				"gpobject_yield"
+			],
+			[
+				"list",
+				"listing"
+			],
+			[
+				"set",
+				"set_lists"
+			],
+			[
+				"pa",
+				"pa_list"
+			],
+			[
+				"coun",
+				"counter_print"
+			],
+			[
+				"ju",
+				"juris_counter"
+			],
+			[
+				"R",
+				"REF_FILE"
+			],
+			[
+				"acc",
+				"access_yield"
+			],
+			[
+				"Acc",
+				"AccessPatentList"
+			],
+			[
+				"case",
+				"casetype"
+			],
+			[
+				"filin",
+				"filing_str"
+			],
+			[
+				"fl",
+				"filing"
+			],
+			[
+				"pro",
+				"produce_dataset"
+			],
+			[
+				"fili",
+				"filing"
+			],
+			[
+				"is",
+				"is_pending_stringent"
+			],
+			[
+				"p",
+				"prioritydate"
+			],
+			[
+				"mon",
+				"months"
+			],
+			[
+				"fil",
+				"filingdate"
+			],
+			[
+				"date",
+				"date_val"
+			],
+			[
+				"ide",
+				"identifier_str"
+			],
+			[
+				"is_",
+				"is_issued"
+			],
+			[
+				"pendin",
+				"pending_list"
+			],
+			[
+				"pen",
+				"pending_list"
+			],
+			[
+				"generate",
+				"generate_counters"
+			],
+			[
+				"gen",
+				"generate_headers"
+			],
+			[
+				"count",
+				"count_key"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"path",
+				"pathway"
+			],
+			[
+				"ic",
+				"ic_header"
+			],
+			[
+				"st",
+				"staticmethod"
+			],
+			[
+				"pat",
+				"pathway"
+			],
+			[
+				"c",
+				"categories\tstatement"
+			],
+			[
+				"pa_",
+				"pa_firm\tstatement"
+			],
+			[
+				"Fir",
+				"FirmsCounter\tclass"
+			],
+			[
+				"emit_",
+				"emit_triple_pa\tfunction"
+			],
+			[
+				"att",
+				"atty_dict"
+			],
+			[
+				"atty",
+				"atty_count"
+			],
+			[
+				"iss",
+				"issuing"
+			],
+			[
+				"jus",
+				"jurisdiction"
+			],
+			[
+				"prev",
+				"previous"
+			],
+			[
+				"prio",
+				"prioritydate"
+			],
+			[
+				"months",
+				"months_old"
+			],
+			[
+				"out",
+				"out_list"
+			],
+			[
+				"month",
+				"months_old"
+			],
+			[
+				"def",
+				"defaultdict"
+			],
+			[
+				"in",
+				"input_f"
+			],
+			[
+				"IN",
+				"INPUT_FILE"
+			],
+			[
+				"count_",
+				"counter_countable"
+			],
+			[
+				"co",
+				"counter_countable"
+			],
+			[
+				"simp",
+				"simplify_pa"
+			],
+			[
+				"flex",
+				"flex_for_spa"
+			],
+			[
+				"label",
+				"labeltext"
+			],
+			[
+				"rkt",
+				"rkt_list"
+			],
+			[
+				"Score",
+				"ScoreCount"
+			],
+			[
+				"Sc",
+				"ScoreCount"
+			],
+			[
+				"resu",
+				"resultpair"
+			],
+			[
+				"sco",
+				"score_list"
+			],
+			[
+				"scor",
+				"score_count"
+			],
+			[
+				"oc",
+				"oc_dict"
+			],
+			[
+				"locat",
+				"location_counter"
+			],
+			[
+				"filter",
+				"filter_list"
+			],
+			[
+				"label_",
+				"label_object"
+			],
+			[
+				"S",
+				"Streetview"
+			],
+			[
+				"spe",
+				"specific_counter"
+			],
+			[
+				"fi",
+				"filter_list"
+			],
+			[
+				"filte",
+				"filter_name"
+			],
+			[
+				"filter_",
+				"filter_list"
+			],
+			[
+				"y",
+				"yvalue"
+			],
+			[
+				"Data",
+				"DataObjectRenderer"
+			],
+			[
+				"Dat",
+				"DataObjectRenderer"
+			],
+			[
+				"_g",
+				"_generate_stats_block"
+			],
+			[
+				"div",
+				"div_info"
+			],
+			[
+				"chart",
+				"chart_info"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"Is",
+				"Issued"
+			],
+			[
+				"case_coun",
+				"case_count_list"
+			],
+			[
+				"case_",
+				"case_count_list"
+			],
+			[
+				"exc",
+				"except"
+			],
+			[
+				"is_u",
+				"is_usissued"
+			],
+			[
+				"is_us",
+				"is_uspending"
+			],
+			[
+				"G",
+				"Geo"
+			],
+			[
+				"new",
+				"new_category_names"
+			],
+			[
+				"categ",
+				"category_names"
+			],
+			[
+				"cate",
+				"category_names"
+			],
+			[
+				"cat",
+				"category_names"
+			],
+			[
+				"col",
+				"column_template"
+			],
+			[
+				"color",
+				"color_names"
+			],
+			[
+				"color_",
+				"color_set_a"
+			],
+			[
+				"catego",
+				"categories_string"
+			],
+			[
+				"data",
+				"datastring"
+			],
+			[
+				"core",
+				"core_template"
+			],
+			[
+				"class",
+				"classification"
+			],
+			[
+				"YE",
+				"year_min"
+			],
+			[
+				"clas",
+				"classification"
+			],
+			[
+				"year_",
+				"year_max"
+			],
+			[
+				"year",
+				"year_min"
+			],
+			[
+				"try",
+				"try\tTry/Except"
+			],
+			[
+				"page",
+				"pageinsert"
+			],
+			[
+				"hash",
+				"hashvalue"
+			],
+			[
+				"gener",
+				"generate_page"
+			],
+			[
+				"Lab",
+				"LabelUrlInterpreter"
+			],
+			[
+				"get_",
+				"get_limited_keylist"
+			],
+			[
+				"Label",
+				"LabelInfo"
+			],
+			[
+				"first",
+				"firstcell_function"
+			],
+			[
+				"patent",
+				"patentblock"
+			],
+			[
+				"cachek",
+				"cachekey"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.md",
+			"settings":
+			{
+				"buffer_size": 221,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Enable Package"
+			],
+			[
+				"page",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Package Control: List Packages"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/tabtiang/Google Drive/p/portfolio/labelcount.py",
+		"/Users/tabtiang/Google Drive/p/portfolio/rescindpub.py",
+		"/Users/tabtiang/Documents/kndata/newlines.py",
+		"/Users/tabtiang/p/portfolio/helper.py",
+		"/Users/tabtiang/p/portfolio/oc_counts.py",
+		"/Users/tabtiang/Desktop/auditview.csv",
+		"/Users/tabtiang/p/portfolio/template.py",
+		"/Users/tabtiang/p/portfolio/portfolio.py",
+		"/Users/tabtiang/p/portfolio/budget.py",
+		"/Users/tabtiang/p/portfolio/budgetcalculator.py",
+		"/Users/tabtiang/Documents/kndata/egeo.html",
+		"/Users/tabtiang/p/portfolio/labelcount.py",
+		"/Users/tabtiang/Documents/kndata/cgeo.html",
+		"/Users/tabtiang/Documents/kndata/cmi2.html",
+		"/Users/tabtiang/Documents/kndata/assist_sub.html",
+		"/Users/tabtiang/Documents/kndata/ami2.html",
+		"/Users/tabtiang/Documents/kndata/ball.html",
+		"/Users/tabtiang/Documents/kndata/aall.html",
+		"/Users/tabtiang/Documents/kndata/all-mod1.html",
+		"/Users/tabtiang/Documents/kndata/coresearch.html",
+		"/Users/tabtiang/p/portfolio/aaportfolio.py",
+		"/Users/tabtiang/Desktop/Sign Up for DiRT'15.html",
+		"/Users/tabtiang/p/ae/npatents/labelparser.py",
+		"/Users/tabtiang/p/ae/npatents/globalvar.py",
+		"/Users/tabtiang/p/portfolio/out.txt",
+		"/Users/tabtiang/Desktop/gpatents error",
+		"/Users/tabtiang/Documents/kndata/all.html",
+		"/Users/tabtiang/Documents/kndata/multipage.html",
+		"/Users/tabtiang/Library/Application Support/Sublime Text 3/Packages/CTags/CTags.sublime-settings",
+		"/Users/tabtiang/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/tabtiang/Documents/kndata/assist.html",
+		"/Users/tabtiang/p/portfolio/histogram.py",
+		"/Users/tabtiang/Documents/kndata/column_graph_all.html",
+		"/Users/tabtiang/Documents/kndata/test.html",
+		"/Users/tabtiang/p/ae/npatents/gendispatentblock.py",
+		"/Users/tabtiang/p/ae/npatents/gpobject.py",
+		"/Users/tabtiang/p/ae/npatents/labels.py",
+		"/Users/tabtiang/p/ae/npatents/mainui.py",
+		"/Users/tabtiang/p/ae/npatents/htmlelement.py",
+		"/Users/tabtiang/p/ae/npatents/nupload.py",
+		"/Users/tabtiang/p/ae/npatents/mrlabel.py",
+		"/Users/tabtiang/p/ae/npatents/emailinternal.py",
+		"/Users/tabtiang/p/ae/npatents/labelurlinterpreter.py",
+		"/Users/tabtiang/p/ae/npatents/genyeargraph.py",
+		"/Users/tabtiang/p/ae/npatents/labeldisplay.py",
+		"/Users/tabtiang/p/ae/npatents/app.yaml",
+		"/Users/tabtiang/p/ae/npatents/urlinterpreter.py",
+		"/Users/tabtiang/p/ae/npatents/cleanup.py",
+		"/Users/tabtiang/p/ae/npatents/labelreportpipeline.py",
+		"/Users/tabtiang/p/ae/npatents/genpathwaycounter.py",
+		"/Users/tabtiang/p/ae/npatents/audit.py",
+		"/Users/tabtiang/p/ae/npatents/dateresult.py",
+		"/Users/tabtiang/p/ae/npatents/main.py",
+		"/Users/tabtiang/p/ae/npatents/bpp.yaml",
+		"/Users/tabtiang/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/tabtiang/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/tabtiang/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"mailpi",
+			"is_countable",
+			"access_yield()",
+			"access_yield",
+			"print gp",
+			"deduplicate",
+			"sorted",
+			"emit",
+			"is_location",
+			"is_aaron",
+			"aaron",
+			"D Iss",
+			"priority",
+			"1996",
+			"%s",
+			"format",
+			"values",
+			"render_column_graph",
+			"filename",
+			"multipage.add(",
+			"stacked_graph_tuple",
+			"DataObjectRe",
+			"ymax",
+			"stacked_graph_tuple",
+			"findall",
+			"ChartGenerator",
+			"page",
+			"FILEPATH",
+			"colors_default",
+			"column_template",
+			"core_template",
+			"core_s",
+			"case_counts_issue",
+			"csvchild",
+			"in set gv",
+			"here init",
+			"re.search",
+			"error in Href",
+			"wait_all",
+			"ndb.wait_all",
+			"ndb.futures",
+			"ndb.Futures",
+			"(\"else\"",
+			"retesting cache",
+			"reset cach",
+			"title is",
+			"Href_pto",
+			"labels.",
+			"without a name key",
+			"without a name or k",
+			"urlinterpreter.Url",
+			"labels",
+			"labels.app",
+			"get_target",
+			"labels",
+			" labels",
+			"nafornone",
+			"labels/",
+			"specificpareport",
+			"ScanFor",
+			"faq",
+			"pipeline_a",
+			"firstcell_header",
+			"firstcell_headers",
+			"firstcell",
+			"firstcellh",
+			"LogCacheKey",
+			"UpdateCache",
+			"CheckCache",
+			"CacheKey"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"access_yield(INPUT_FILE)",
+			"multipage.add_year_graph(",
+			"template.colors_default",
+			"template.column_template",
+			"template.core_template",
+			"case_count_list",
+			"pipeline_next",
+			"log_cache_key",
+			"updatecache"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 221,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								221,
+								221
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "eo.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/p/ae/npatents/npatents.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"GPpr",
+				"gpprocesssubset"
+			],
+			[
+				"LabelPar",
+				"LabelParserObject"
+			],
+			[
+				"add_all",
+				"add_all_labels"
+			],
+			[
+				"from",
+				"from_gpitem"
+			]
+		],
+		"width": 566.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
