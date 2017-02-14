@@ -32,10 +32,12 @@ layout: page
 
 * NY: Darweesh et al. v Trump et al. 1:17-cv-00480 (E.D.N.Y.)
   + **Status**: [will update]
+  + [TRO](../edny/2017_01_28_EDNY_TRO.pdf)
+  + Docket 40: the TRO is extended until February 21, 2017 
 * Detroit:
   + **Status**: [will update]
-* Los Angeles
-  + **Status**: [will update]
+* Los Angeles Badr Dhaifallah Ahmed Mohammed v United States, 2:17-cv-00786 (C.D. Cal.)
+  + emergency order, appear on Feb 10 for oral argument
 
 
 ### Executive
