@@ -32,7 +32,7 @@ layout: page
 
 * NY: Darweesh et al. v Trump et al. 1:17-cv-00480 (E.D.N.Y.)
   + **Status**: [will update]
-  + [TRO](../edny/2017_01_28_EDNY_TRO.pdf)
+  + [TRO](../edny1/2017_01_28_EDNY_TRO.pdf)
   + Docket 40: the TRO is extended until February 21, 2017 
 * Detroit:
   + **Status**: [will update]
@@ -64,5 +64,7 @@ Please share any missing key info with eochallenges@gmail.com
 [12]: http://www.politico.com/f/?id=00000159-f6bd-d173-a959-ffff671a0001
 [13]: https://www.dhs.gov/news/2017/02/03/statement-countries-currently-suspended-travel-united-states
 [14]: https://www.ca9.uscourts.gov/content/view.php?pk_id=0000000860
+[15]: https://en.wikipedia.org/wiki/Legal_challenges_to_Executive_Order_13769
+
 
 
