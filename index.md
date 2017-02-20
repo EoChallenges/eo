@@ -79,9 +79,9 @@ order (Dkt. # 57 )
   + [Pacer](https://ecf.cacd.uscourts.gov/)
 
 * **_Aziz v. Trump_** No. 1:17-cv-00116 (E.D.Va. 2017)
-  + ** Status **: Opinion and order issued on 02-13
+  + **Status**: Opinion and order issued on 02-13
   + U.S. District Judge Leonie Brinkema
-  + 2017-02-13 [Opinion](../edva/2017_02_13_Opinion.pdf) and [Order](../edva/2017_02_13_Order.pdf)
+  + 2017-02-13 [Opinion](../edva1/2017_02_13_Opinion.pdf) and [Order](../edva1/2017_02_13_Order.pdf)
   + [TRO](../edva1/TRO.pdf) 
   ```
 a) respondants shall permit lawyers access to all legal permanent residents 
