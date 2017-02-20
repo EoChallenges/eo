@@ -69,6 +69,8 @@ order (Dkt. # 57 )
 * **_Arab American Civil Rights League et al. v. Trump et al._**: 2:17-cv-10310-VAR-SDD (E.D. Mich)
   + **Status**: Plaintiffs response due 02-20
   + Judge Victoria A Roberts
+  + 35 - [order to respond](../edmi1/35.pdf)
+  + 33 - [def motion](../edmi1/33.pdf)
 
 
 * **_Badr Dhaifallah Ahmed Mohammed v. United States_**, 2:17-cv-00786 (C.D. Cal.)
@@ -79,6 +81,7 @@ order (Dkt. # 57 )
 * **_Aziz v. Trump_** No. 1:17-cv-00116 (E.D.Va. 2017)
   + ** Status **: Opinion and order issued on 02-13
   + U.S. District Judge Leonie Brinkema
+  + 2017-02-13 [Opinion](../edva/2017_02_13_Opinion.pdf) and [Order](../edva/2017_02_13_Order.pdf)
   + [TRO](../edva1/TRO.pdf) 
   ```
 a) respondants shall permit lawyers access to all legal permanent residents 
