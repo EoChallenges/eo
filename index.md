@@ -20,24 +20,33 @@ layout: page
                   TRO issued asserting nationwide restraint on Executive Order
     + 2017-02-03 TRO [(PDF Linked here)](../wdwa/2017-02-03_WDWA_TRO.pdf)
   + Ali V. Trump, et al., 2:17-cv-00135 (D. Wash. filed January 30, 2017)
-    + **Status**: [will update]
+    + **Status**: Documents not available.  Motion for PI filed.
 
-* Boston 
+* Boston [Pacer](https://ecf.mad.uscourts.gov/)
   + Asgari v. Trump et al. 1:17-cv-10182-ADB (D. Mass):
-    + (WIP)
+    + **Status**: Motion for TRO found moot. (02-19)  Papers not public.
+    + 02/08/2017: Motion for TRO found moot.
+
   + Louhghalam et al. v. Trump et al. 1:17-cv-10154-NMG (D. Mass): 
-    + **Status**: TRO imposed on 2017-01-29 (Sat) and will expire 02-05 (Sun)
+    + **Status**: TRO expired, no new filings (02-19) 
     + 2017-02-03 Decision [(PDF Linked here)](../mad/2017_02_03_TRO.pdf)
+    + 2017-01-29 Temporary Restraining Order Issued
+    + [New Yorker story][16]
 
 
 * NY: Darweesh et al. v Trump et al. 1:17-cv-00480 (E.D.N.Y.)
   + **Status**: [will update]
   + [TRO](../edny1/2017_01_28_EDNY_TRO.pdf)
-  + Docket 40: the TRO is extended until February 21, 2017 
+  + Docket 40: the TRO is extended until February 21, 2017
+
 * Detroit:
   + **Status**: [will update]
+
 * Los Angeles Badr Dhaifallah Ahmed Mohammed v United States, 2:17-cv-00786 (C.D. Cal.)
   + emergency order, appear on Feb 10 for oral argument
+  + Pacer
+
+* Virginia:
 
 
 ### Executive
@@ -65,6 +74,6 @@ Please share any missing key info with eochallenges@gmail.com
 [13]: https://www.dhs.gov/news/2017/02/03/statement-countries-currently-suspended-travel-united-states
 [14]: https://www.ca9.uscourts.gov/content/view.php?pk_id=0000000860
 [15]: https://en.wikipedia.org/wiki/Legal_challenges_to_Executive_Order_13769
-
+[16]: https://www.newyorker.com/news/news-desk/in-boston-a-late-night-victory-against-trumps-immigration-ban/amp
 
 

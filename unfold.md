@@ -5,12 +5,9 @@
 layout: page
 ---
 ### How it unfolded
-* Tuesday Feb 13:
-  + one judge in the ninth circuit requests vote on hearing the case en banc
-  + WA district court
 
-* Thursday Feb 9
-  + Ninth Circuit affirms per curiam
+* Sat Jan 29:
+  + MA Court - Judge on assignment and Magistrate issues TRO that expires end of Sat Feb 4
 
 * Friday Feb 3:
   + CBP authorizes travel for all [DHS Statement][13]
@@ -19,3 +16,17 @@ layout: page
 '''
   + Nationwide TRO from Seattle [Seattle Times][10]
   + Boston judge lets MA TRO expire 
+
+* Thursday Feb 9
+  + Ninth Circuit affirms per curiam
+
+* Tuesday Feb 13:
+  + one judge in the ninth circuit requests vote on hearing the case en banc
+  + Ninth Circuit panel sets new briefing schedule for March [901]
+  + WA district court requests briefing on whether to continue case
+
+* Sat Feb 19:
+  + New DHS Memos on Deportation
+
+
+  [901]: https://cdn.ca9.uscourts.gov/datastore/general/2017/02/09/unpublished_procedural_order.pdf
